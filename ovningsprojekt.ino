@@ -1,7 +1,7 @@
 /*
 * Name: övningsprojekt
 * Author: Elmer Nolgren Saldert
-* Date: 2025-10-17
+* Date: 2025-11-11
 * Description: This project uses a ds3231 to measure time and displays the time to an 1306 oled display in the form of an analog clock, 
 * Further, it measures temperature with ds3231 and displays a mapped value to a 9g-servo-motor, together with the raw value on the oled display. 
 * It also writes the time to an 8 segment display in the format hh:mm:ss.
